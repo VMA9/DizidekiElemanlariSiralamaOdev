@@ -14,7 +14,7 @@ public class Main {
             list[i] = input.nextInt();
         }
         Arrays.sort(list);
-        System.out.println(Arrays.toString(list));
+        System.out.println("Sıralama : " + Arrays.toString(list));
 
     }
 }
